@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "hihi",
   "main": "index.js",
-  "scripts": {
-    "test": "start": "node app.js"
+
+  "main": "app.js",
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
   },
   "author": "anhduy",
   "license": "ISC",
